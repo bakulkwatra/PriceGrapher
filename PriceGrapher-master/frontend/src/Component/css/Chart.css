@@ -1,0 +1,131 @@
+.chart-section{
+    display: flex;
+    gap:20px;
+    width: 100%;
+    margin: 0;
+    margin-right: 20px;
+    margin-top: 40px;
+    
+}
+
+.main-chart{
+    background-color: #1A1624;
+    border-radius: 20px;
+    height: 500px;
+    width: 80%;
+    overflow: scroll;
+}
+
+.chart-control{
+    height: inherit;
+    background-color: #1A1624;
+    width: min-content;
+    border-radius: 20px;
+    color: white;
+    padding: 20px;
+}
+
+.chart-control form select{
+    background-color: black;
+    height: 40px;
+    width: 100%;
+    margin-top: 10px;
+    border-radius: 50px;
+    color:white;
+    border:none;
+    text-align: center;
+}
+
+.Graph-type{
+    display: flex;
+    gap: 20px;
+    flex-direction: column;
+}
+
+.radio {
+    margin-top: 20px;
+    gap: 20px;
+    display: flex;
+    align-self: center;
+    justify-self: center;
+}
+
+input[type='radio'] {
+    appearance: none;
+  background-color: #fff;
+  align-self: center;
+  margin-right: 20px;
+  margin-left: 20px;
+  font: inherit;
+  color: currentColor;
+  width: 1.15em;
+  height: 1.15em;
+  border: 0.15em solid currentColor;
+  border-radius: 50%;
+  transform: translateY(-0.075em);
+  display: flex;
+  flex-direction: row;
+  place-content: center;
+}
+
+input[type='radio']::before {
+    content: '';
+    width: 0.65em;
+  height: 0.65em;
+  border-radius: 50%;
+  transform: scale(0);
+  transition: 120ms transform ease-in-out;
+  box-shadow: inset 1em 1em var(--form-control-color);
+  background-color: CanvasText;
+}
+
+input[type="radio"]:checked::before {
+    transform: scale(1);
+  }
+
+.ticker input {
+    background-color: black;
+    height: 40px;
+    width: 100%;
+    margin-top: 10px;
+    border-radius: 50px;
+    color:white;
+    border:none;
+    text-align: center;
+}
+
+.chart-control form {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    height: 400px;
+    width: 100%;
+    margin: 0;
+    text-align: center;
+}
+
+
+.date-section {
+    display: flex;
+    gap: 20px;
+}
+
+.date-section input {
+    height: 40px;
+    border-radius: 50px;
+    background-color: black;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    border: none;
+}
+
+button{
+    border: none;
+    border-radius: 50px;
+    background-color: black;
+    color: white;
+    height: 40px;
+    width: 100%;
+    margin-top: 10px;
+}

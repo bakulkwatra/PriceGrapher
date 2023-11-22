@@ -1,0 +1,282 @@
+<div class="wrapper">
+  <div class="scroll-banner w-100 py-2 border-b">
+    <div class="ticker-scroll d-flex">
+
+      <div class="ticker-item d-flex align-items-cetner p-1">
+        <a href="#">
+          <div class="d-flex align-items-center">
+
+            <p class="ticker-sym mb-0">ETH</p>
+          </div>
+        </a>
+        &nbsp;
+        <div class="ticker-price mb-0 d-flex justify-content-center align-items-center">
+          <span class="text-danger">
+            45.33
+          </span>
+          <span>%</span>
+          <span><i class="fa fa-caret-down"></i></span>
+        </div>
+      </div>
+
+      <div class="ticker-item d-flex align-items-cetner p-1">
+        <a href="#">
+          <div class="d-flex align-items-center">
+
+            <p class="ticker-sym mb-0">ETH</p>
+          </div>
+        </a>
+        &nbsp;
+        <div class="ticker-price mb-0 d-flex justify-content-center align-items-center">
+          <span class="text-danger">
+            45.33
+          </span>
+          <span>%</span>
+          <span><i class="fa fa-caret-down"></i></span>
+        </div>
+      </div>
+
+      <div class="ticker-item d-flex align-items-cetner p-1">
+        <a href="#">
+          <div class="d-flex align-items-center">
+
+            <p class="ticker-sym mb-0">ETH</p>
+          </div>
+        </a>
+        &nbsp;
+        <div class="ticker-price mb-0 d-flex justify-content-center align-items-center">
+          <span class="text-danger">
+            45.33
+          </span>
+          <span>%</span>
+          <span><i class="fa fa-caret-down"></i></span>
+        </div>
+      </div>
+
+      <div class="ticker-item d-flex align-items-cetner p-1">
+        <a href="#">
+          <div class="d-flex align-items-center">
+
+            <p class="ticker-sym mb-0">ETH</p>
+          </div>
+        </a>
+        &nbsp;
+        <div class="ticker-price mb-0 d-flex justify-content-center align-items-center">
+          <span class="text-danger">
+            45.33
+          </span>
+          <span>%</span>
+          <span><i class="fa fa-caret-down"></i></span>
+        </div>
+      </div>
+
+      <div class="ticker-item d-flex align-items-cetner p-1">
+        <a href="#">
+          <div class="d-flex align-items-center">
+
+            <p class="ticker-sym mb-0">ETH</p>
+          </div>
+        </a>
+        &nbsp;
+        <div class="ticker-price mb-0 d-flex justify-content-center align-items-center">
+          <span class="text-danger">
+            45.33
+          </span>
+          <span>%</span>
+          <span><i class="fa fa-caret-down"></i></span>
+        </div>
+      </div>
+
+      <div class="ticker-item d-flex align-items-cetner p-1">
+        <a href="#">
+          <div class="d-flex align-items-center">
+
+            <p class="ticker-sym mb-0">ETH</p>
+          </div>
+        </a>
+        &nbsp;
+        <div class="ticker-price mb-0 d-flex justify-content-center align-items-center">
+          <span class="text-danger">
+            45.33
+          </span>
+          <span>%</span>
+          <span><i class="fa fa-caret-down"></i></span>
+        </div>
+      </div>
+
+      <div class="ticker-item d-flex align-items-cetner p-1">
+        <a href="#">
+          <div class="d-flex align-items-center">
+
+            <p class="ticker-sym mb-0">ETH</p>
+          </div>
+        </a>
+        &nbsp;
+        <div class="ticker-price mb-0 d-flex justify-content-center align-items-center">
+          <span class="text-danger">
+            45.33
+          </span>
+          <span>%</span>
+          <span><i class="fa fa-caret-down"></i></span>
+        </div>
+      </div>
+
+      <div class="ticker-item d-flex align-items-cetner p-1">
+        <a href="#">
+          <div class="d-flex align-items-center">
+
+            <p class="ticker-sym mb-0">ETH</p>
+          </div>
+        </a>
+        &nbsp;
+        <div class="ticker-price mb-0 d-flex justify-content-center align-items-center">
+          <span class="text-danger">
+            45.33
+          </span>
+          <span>%</span>
+          <span><i class="fa fa-caret-down"></i></span>
+        </div>
+      </div>
+
+      <div class="ticker-item d-flex align-items-cetner p-1">
+        <a href="#">
+          <div class="d-flex align-items-center">
+
+            <p class="ticker-sym mb-0">ETH</p>
+          </div>
+        </a>
+        &nbsp;
+        <div class="ticker-price mb-0 d-flex justify-content-center align-items-center">
+          <span class="text-danger">
+            45.33
+          </span>
+          <span>%</span>
+          <span><i class="fa fa-caret-down"></i></span>
+        </div>
+      </div>
+
+      <div class="ticker-item d-flex align-items-cetner p-1">
+        <a href="#">
+          <div class="d-flex align-items-center">
+
+            <p class="ticker-sym mb-0">ETH</p>
+          </div>
+        </a>
+        &nbsp;
+        <div class="ticker-price mb-0 d-flex justify-content-center align-items-center">
+          <span class="text-danger">
+            45.33
+          </span>
+          <span>%</span>
+          <span><i class="fa fa-caret-down"></i></span>
+        </div>
+      </div>
+
+      <div class="ticker-item d-flex align-items-cetner p-1">
+        <a href="#">
+          <div class="d-flex align-items-center">
+
+            <p class="ticker-sym mb-0">ETH</p>
+          </div>
+        </a>
+        &nbsp;
+        <div class="ticker-price mb-0 d-flex justify-content-center align-items-center">
+          <span class="text-danger">
+            45.33
+          </span>
+          <span>%</span>
+          <span><i class="fa fa-caret-down"></i></span>
+        </div>
+      </div>
+
+      <div class="ticker-item d-flex align-items-cetner p-1">
+        <a href="#">
+          <div class="d-flex align-items-center">
+
+            <p class="ticker-sym mb-0">ETH</p>
+          </div>
+        </a>
+        &nbsp;
+        <div class="ticker-price mb-0 d-flex justify-content-center align-items-center">
+          <span class="text-danger">
+            45.33
+          </span>
+          <span>%</span>
+          <span><i class="fa fa-caret-down"></i></span>
+        </div>
+      </div>
+ 
+      <div class="ticker-item d-flex align-items-cetner p-1">
+        <a href="#">
+          <div class="d-flex align-items-center">
+
+            <p class="ticker-sym mb-0">ETH</p>
+          </div>
+        </a>
+        &nbsp;
+        <div class="ticker-price mb-0 d-flex justify-content-center align-items-center">
+          <span class="text-danger">
+            45.33
+          </span>
+          <span>%</span>
+          <span><i class="fa fa-caret-down"></i></span>
+        </div>
+      </div>
+  
+      <div class="ticker-item d-flex align-items-cetner p-1">
+        <a href="#">
+          <div class="d-flex align-items-center">
+
+            <p class="ticker-sym mb-0">ETH</p>
+          </div>
+        </a>
+        &nbsp;
+        <div class="ticker-price mb-0 d-flex justify-content-center align-items-center">
+          <span class="text-danger">
+            45.33
+          </span>
+          <span>%</span>
+          <span><i class="fa fa-caret-down"></i></span>
+        </div>
+      </div>
+
+      <div class="ticker-item d-flex align-items-cetner p-1">
+        <a href="#">
+          <div class="d-flex align-items-center">
+
+            <p class="ticker-sym mb-0">ETH</p>
+          </div>
+        </a>
+        &nbsp;
+        <div class="ticker-price mb-0 d-flex justify-content-center align-items-center">
+          <span class="text-danger">
+            45.33
+          </span>
+          <span>%</span>
+          <span><i class="fa fa-caret-down"></i></span>
+        </div>
+      </div>
+
+      <div class="ticker-item d-flex align-items-cetner p-1">
+        <a href="#">
+          <div class="d-flex align-items-center">
+
+            <p class="ticker-sym mb-0">ETH</p>
+          </div>
+        </a>
+        &nbsp;
+        <div class="ticker-price mb-0 d-flex justify-content-center align-items-center">
+          <span class="text-danger">
+            45.33
+          </span>
+          <span>%</span>
+          <span><i class="fa fa-caret-down"></i></span>
+        </div>
+      </div>
+
+
+
+    </div>
+  </div>
+
+</div>
